@@ -11,6 +11,6 @@
 - Firebase
 
 ###### Datos de contacto: 
-Linkedin:  Luis Angel Alcarraz
-Repositorio: https://github.com/LuchiAngel?tab=repositories
-Email: luchinico2010@gmail.com
+- Linkedin:  Luis Angel Alcarraz
+- Repositorio: https://github.com/LuchiAngel?tab=repositories
+- Email: luchinico2010@gmail.com
