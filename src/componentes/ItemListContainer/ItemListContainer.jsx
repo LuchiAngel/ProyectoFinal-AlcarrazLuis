@@ -40,8 +40,16 @@ export const ItemListContainer = () => {
 
       
       }   
-  useEffect( () => {
+
+     /* useEffect(() => {
+        const populateProducts = async () => {
+          await seedProducts();
+        };
+        populateProducts();
+      }, []); */
     
+
+  useEffect( () => {
      setIsLoading(true);
      getProductsDB(category);
   }, [category])
