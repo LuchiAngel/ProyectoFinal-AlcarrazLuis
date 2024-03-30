@@ -6,6 +6,7 @@ import { ItemDetailContainer } from "./componentes/ItemDetailContainer/ItemDetai
 import { Contacto } from "./componentes/Contacto/Contacto";
 import { CartContextProvider } from "./context/CartContext";
 import { CheckOut } from "./componentes/CheckOut/CheckOut";
+import { Footer } from "./componentes/Footer/Footer";
 
 const App = () => {
 
@@ -26,6 +27,7 @@ const App = () => {
 
 
         </Routes>
+        <Footer/>
       </BrowserRouter>
     </CartContextProvider>
     
